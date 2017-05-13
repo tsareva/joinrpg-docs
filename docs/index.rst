@@ -5,6 +5,7 @@ JoinRPG
 
 .. toctree::
     :maxdepth: 3
-
-    howto-doc
+    
+    groups/index
     plot/index
+    
